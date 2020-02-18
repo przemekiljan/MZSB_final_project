@@ -5,4 +5,4 @@ This project was created in part of final assignment for [Modeling of complex bi
   
 [Report](https://github.com/przemekiljan/final_project/blob/master/report_files/final.pdf) that includes rundown on adpoted methods and final results.  
   
-Main dataset can be downloaded [here](https://www.dropbox.com/s/qxybsw6cpgvrqc9/mini_emp.tsv?dl=0) (1GB).
+Main dataset can be downloaded from [here](https://www.dropbox.com/s/qxybsw6cpgvrqc9/mini_emp.tsv?dl=0) (1GB).
